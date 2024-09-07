@@ -26,8 +26,8 @@
   weight = 20
 
   [[main]]
-  name = "About us"
-  pageRef = "about"
+  name = "Builders"
+  pageRef = "builder"
   weight = 21
 
 [[main]]
