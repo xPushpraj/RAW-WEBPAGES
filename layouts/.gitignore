@@ -1,0 +1,47 @@
+# Ignore the public/ directory
+/public/
+
+# Ignore build directories
+/resources/
+hugo_stats.json
+
+# Ignore temporary system files
+.DS_Store
+Thumbs.db
+
+# Ignore Hugo config backup files
+config.toml.bak
+config.yaml.bak
+config.json.bak
+
+# Ignore log files and temporary backup files
+*.log
+*.bak
+*.swp
+*~
+
+# Ignore node_modules if you're using Node.js (e.g., for theme or site customization)
+/node_modules/
+
+# Ignore .env files if you're storing environment variables
+.env
+.env.local
+
+# Ignore Hugo caches
+/cache/
+hugo_cache/
+
+# Ignore Hugo files generated for preview or production
+/public/
+/dist/
+/out/
+
+# Ignore IDE-specific files (optional)
+/.vscode/
+/.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore Netlify deploy settings (if using Netlify)
+/.netlify/
+

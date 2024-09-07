@@ -1,0 +1,76 @@
+# -- Site Configuration --
+# Refer to the theme docs for more details about each of these parameters.
+# https://nunocoracao.github.io/blowfish/docs/getting-started/
+
+theme = "blowfish"
+baseURL = "https://farmfrontiers.netlify.app"  # Update with your actual domain
+defaultContentLanguage = "en"
+
+enableRobotsTXT = true
+paginate = 20
+summaryLength = 30
+
+buildDrafts = false
+buildFuture = false
+
+enableEmoji = true
+
+# Enable Google Analytics
+googleAnalytics = "G-XXXXXXXXX"  # Replace with your Google Analytics tracking ID
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  author = "authors"
+  series = "series"
+
+[sitemap]
+  changefreq = "daily"
+  filename = "sitemap.xml"
+  priority = 0.5
+
+[outputs]
+  home = ["HTML", "RSS", "JSON","Sitemap"]
+
+# Default metadata for better SEO
+[params]
+  title = "FarmFrontiers | Exploring the New Age of Agriculture"
+  description = "FarmFrontiers provides the latest insights, practical advice, and innovative solutions in modern farming and sustainable agriculture. Stay ahead with trends, tips, and technology to fuel your farm's future."
+  author = "FarmFrontiers"
+  keywords = ["Farming", "Agriculture", "Sustainable Farming", "Modern Agriculture", "Farm Solutions", "FarmFrontiers"]
+  language = "en"
+  ogType = "website"
+  ogImage = "https://farmfrontiers.com/images/og-image.jpg"  # Update with your actual Open Graph image URL
+  twitterCard = "summary_large_image"
+  twitterSite = "@FarmFrontiers"  # Replace with your actual Twitter handle
+  twitterCreator = "@FarmFrontiers"  # Replace with your actual Twitter handle
+
+# Enable Canonical URLs
+[permalinks]
+  posts = "/:year/:month/:day/:slug/"
+
+# Improve RSS feed for SEO
+[outputFormats.RSS]
+  mediaType = "application/rss+xml"
+  baseName = "index"
+  rel = "alternate"
+
+# AMP Support for mobile-friendly pages (if the theme supports it)
+[outputs.amp]
+  home = ["AMP", "HTML"]
+  page = ["AMP", "HTML"]
+
+# Configure Cross-Origin Resource Sharing (CORS) for enhanced security and responsiveness
+[security]
+  contentSecurityPolicy = "default-src 'self'; img-src 'self' https://farmfrontiers.netlify.app; script-src 'self'; style-src 'self' 'unsafe-inline'"
+
+# Configure Google Fonts for responsive typography
+[params.googleFonts]
+  enable = true
+  fonts = ["Roboto:400,700", "Open Sans:300,400,600"]
+
+# Favicon and Touch Icons for better branding and mobile support
+[params.icons]
+  favicon = "/images/favicon.ico"
+  appleTouchIcon = "/images/apple-touch-icon.png"
+  msTileImage = "/images/mstile-150x150.png"

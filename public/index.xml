@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FarmFrontiers</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on FarmFrontiers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 FarmFrontiers</copyright>
+    <lastBuildDate>Thu, 05 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Purpose of Our Website: Empowering Farmers with Modern Agricultural Solutions</title>
+      <link>http://localhost:1313/2024/09/05/the-purpose-of-our-website-empowering-farmers-with-modern-agricultural-solutions/</link>
+      <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/2024/09/05/the-purpose-of-our-website-empowering-farmers-with-modern-agricultural-solutions/</guid>
+      <description>Our platform is dedicated to solving agricultural challenges using modern technology, providing solutions to help India&amp;rsquo;s farmers improve productivity and sustainability.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/2024/09/05/the-purpose-of-our-website-empowering-farmers-with-modern-agricultural-solutions/cover.png" />
+    </item>
+    
+    <item>
+      <title>About Us</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description>About Us # Pushpraj Patel &#34;Cultivating innovation in every field.&#34;
+Founder &amp; Visionary
+Twitter | LinkedIn | GitHub Our Mission # At FarmFrontiers, we are dedicated to exploring and advancing the new age of agriculture.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/about/cover.jpg" />
+    </item>
+    
+    <item>
+      <title>Super cool article that I wrote</title>
+      <link>http://localhost:1313/2021/09/04/super-cool-article-that-i-wrote/</link>
+      <pubDate>Sat, 04 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/2021/09/04/super-cool-article-that-i-wrote/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in eleifend justo, vestibulum congue lacus. Quisque est libero, lacinia sed placerat ac, interdum id urna.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/2021/09/04/super-cool-article-that-i-wrote/cover.png" />
+    </item>
+    
+  </channel>
+</rss>

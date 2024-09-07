@@ -1,0 +1,37 @@
+[[main]]
+  name = "मुख्य पृष्ठ"
+  pageRef = "/"
+  weight = 9
+
+[[main]]
+  name = "लेख"
+  pageRef = "posts"
+  weight = 10
+
+[[main]]
+  name = "टैग्स"
+  pageRef = "tags"
+  weight = 20
+
+[[main]]
+  name = "हमारे बारे में"
+  pageRef = "about"
+  weight = 21
+
+[[main]]
+  identifier = "Youtube"
+  pre = "लिंक"
+  url = "https://m.youtube.com"
+  weight = 40
+
+[[main]]
+  identifier = "Twitter"
+  pre = "ट्विटर"
+  url = "https://twitter.com/burufugu"
+  weight = 60
+
+
+[[footer]]
+  name = "टैग्स"
+  pageRef = "tags"
+  weight = 10

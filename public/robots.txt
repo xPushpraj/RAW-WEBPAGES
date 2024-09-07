@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /drafts/
+Disallow: /private/
+Disallow: /tags/
+Disallow: /categories/
+Allow: /
+
+Sitemap: https://yourwebsite.com/sitemap.xml

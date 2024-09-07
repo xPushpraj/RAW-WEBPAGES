@@ -1,0 +1,110 @@
+# -- Theme Options --
+# These options control how the theme functions and allow you to
+# customise the display of your website.
+#
+# Refer to the theme docs for more details about each of these parameters.
+# https://nunocoracao.github.io/blowfish/docs/configuration/#theme-parameters
+
+# Choosing a color scheme that aligns with your brand and is visually appealing.
+colorScheme = "marvel"
+defaultAppearance = "dark" # "light" themes can be more engaging for some users, but "dark" is currently popular.
+autoSwitchAppearance = true
+
+# Enable search to improve user experience and reduce bounce rate.
+enableSearch = true
+enableCodeCopy = true
+
+# Ensures blog posts are the main content focus, aiding in SEO by highlighting key content areas.
+mainSections = ["posts"]
+# robots = "index, follow" # You can enable robots if you want to control search engine indexing behavior.
+
+[header]
+  layout = "fixed" # "fixed" header improves navigation and user experience, aiding in SEO indirectly.
+
+[footer]
+  showMenu = true # Having a footer menu improves site navigation, beneficial for both users and SEO.
+  showCopyright = true
+  showThemeAttribution = true
+  showAppearanceSwitcher = true
+  showScrollToTop = true # "Scroll to Top" improves user experience, reducing bounce rate.
+
+[homepage]
+  layout = "background" # Choose the layout that best presents your content; "background" is visually appealing.
+  homepageImage = "img/cover.webp" # Ensure the image is optimized (compressed) for faster loading times.
+  showRecent = true
+  showRecentItems = 3 # Displaying recent posts helps with content discovery.
+  showMoreLink = true
+  showMoreLinkDest = "posts"
+  cardView = true
+  cardViewScreenWidth = false
+  layoutBackgroundBlur = true # Blurred background can enhance visual appeal without distraction.
+
+[article]
+  showDate = true
+  showDateUpdated = true # Showing the last update date can help with SEO as it indicates content freshness.
+  showAuthor = true
+  showHero = true
+  heroStyle = "background" # Choose the hero style that best showcases your articles.
+  showBreadcrumbs = true # Breadcrumbs improve navigation and SEO by showing the content hierarchy.
+  showDraftLabel = true
+  showEdit = false
+  # editURL = "https://github.com/username/repo/"
+  editAppendPath = true
+  seriesOpened = false
+  showHeadingAnchors = true
+  showPagination = true
+  invertPagination = false
+  showReadingTime = true
+  showTableOfContents = true # Improves navigation within long articles, beneficial for user experience and SEO.
+  showTaxonomies = true # Displaying categories and tags can improve internal linking, aiding SEO.
+  showAuthorsBadges = true # Author credibility can be beneficial for SEO.
+  showWordCount = false
+  showSummary = true
+  sharingLinks = ["linkedin", "twitter", "whatsapp", "pinterest", "reddit", "facebook", "email"] # Social sharing can drive traffic, indirectly benefiting SEO.
+  showComments = true
+
+[list]
+  showHero = true
+  heroStyle = "background" # Choose a style that maintains consistency across your site.
+  layoutBackgroundHeaderSpace = false
+  showBreadcrumbs = true # Breadcrumbs are useful on lists as well.
+  showSummary = true
+  showTableOfContents = false
+  showCards = true
+  groupByYear = true # Grouping by year provides temporal context to your content.
+  cardView = true
+  cardViewScreenWidth = false
+
+  [params.cusdis]
+    appId = "21f440b5-2aac-4579-a91e-e1be2b9ea782" # replace with your actual App ID
+    host = "https://cusdis.com"  # optional: specify a different Cusdis instance
+    lang = "en"                  # optional: specify the language, e.g., "en", "hi"
+
+  [params]
+    showComments = true
+
+
+[sitemap]
+  excludedKinds = [] # Ensure all relevant content is included in the sitemap for better indexing.
+
+[taxonomy]
+  showTermCount = true # Showing term count can provide additional context, useful for users and SEO.
+
+[firebase]
+  # apiKey = "XXXXXX"
+  # authDomain = "XXXXXX"
+  # projectId = "XXXXXX"
+  # storageBucket = "XXXXXX"
+  # messagingSenderId = "XXXXXX"
+  # appId = "XXXXXX"
+  # measurementId = "XXXXXX"
+
+[fathomAnalytics]
+  # site = "ABC12345"
+  # domain = "llama.yoursite.com"
+
+[verification]
+  google = "YOUR_GOOGLE_VERIFICATION_CODE" # Google Search Console verification
+  bing = "YOUR_BING_VERIFICATION_CODE" # Bing Webmaster Tools verification
+  pinterest = "YOUR_PINTEREST_VERIFICATION_CODE" # Pinterest verification (if applicable)
+  yandex = "YOUR_YANDEX_VERIFICATION_CODE" # Yandex verification (if applicable)

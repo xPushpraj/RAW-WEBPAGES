@@ -1,0 +1,25 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "FarmFrontiers"
+contentDir = "content"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  #logo = "img/avatar.png"
+  description = "FarmFrontiers is your gateway to the latest in agricultural innovation. With a focus on modern farming techniques, sustainable practices, and technological advancements, we are dedicated to exploring the new age of agriculture. Our platform provides in-depth articles, expert insights, and actionable solutions for farmers and agribusinesses aiming to enhance productivity and embrace cutting-edge technology."
+  # copyright = "Copy, _right?_ :thinking_face:"
+  dateFormat = "2 January 2006"
+
+[author]
+  name = "FarmFrontiers"
+  image = "img/avatar.png"
+  headline = "Exploring the New Age of Agriculture"
+  bio = "FarmFrontiers is your go-to source for insights on sustainable farming, advanced agricultural techniques, and practical solutions for today's farmers."
+  links = [
+     { link = "https://your_domain.com" },  # Replace with your domain
+     { github = "https://github.com/your_github" },  # Replace with your GitHub
+     { x-twitter = "https://twitter.com/your_twitter" }  # Replace with your Twitter
+   ]
