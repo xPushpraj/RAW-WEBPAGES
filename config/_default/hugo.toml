@@ -16,7 +16,7 @@ buildFuture = false
 enableEmoji = true
 
 # Enable Google Analytics
-googleAnalytics = "G-XXXXXXXXX"  # Replace with your Google Analytics tracking ID
+googleAnalytics = "google-site-verification=Jbq1oLfHTV-vzQBmdB_b_4G5OyVxhhC5wb5k_sA0CZM"  # Replace with your Google Analytics tracking ID
 
 [taxonomies]
   tag = "tags"
