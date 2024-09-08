@@ -104,7 +104,7 @@ mainSections = ["posts"]
   # domain = "llama.yoursite.com"
 
 [verification]
-  google = "YOUR_GOOGLE_VERIFICATION_CODE" # Google Search Console verification
+  google = "bq1oLfHTV-vzQBmdB_b_4G5OyVxhhC5wb5k_sA" # Google Search Console verification
   bing = "YOUR_BING_VERIFICATION_CODE" # Bing Webmaster Tools verification
   pinterest = "YOUR_PINTEREST_VERIFICATION_CODE" # Pinterest verification (if applicable)
   yandex = "YOUR_YANDEX_VERIFICATION_CODE" # Yandex verification (if applicable)
