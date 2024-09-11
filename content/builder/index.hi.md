@@ -13,7 +13,7 @@ draft: false
     <div style="flex: 2; text-align: right;">
         <h2 style="margin: 0;">पुष्पराज पटेल</h2> <!-- Replace with actual name -->
         <p><em>"प्रत्येक क्षेत्र में नवाचार की खेती करना।"</em></p>
-        <p><strong>संस्थापक और दूरदर्शी</strong></p>
+        <p><strong>संस्थापक & दूरदर्शी</strong></p>
         <div style="margin-top: 1rem;">
             <a href="https://twitter.com/your_twitter" target="_blank" rel="noopener noreferrer">ट्विटर</a> | 
             <a href="https://linkedin.com/in/your_linkedin" target="_blank" rel="noopener noreferrer">लिंक्डइन</a> | 
