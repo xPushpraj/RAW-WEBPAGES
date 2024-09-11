@@ -20,14 +20,14 @@
     
     <item>
       <title>About Us</title>
-      <link>http://localhost:1313/about/</link>
+      <link>http://localhost:1313/builder/</link>
       <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/about/</guid>
+      <guid>http://localhost:1313/builder/</guid>
       <description>About Us # Pushpraj Patel &#34;Cultivating innovation in every field.&#34;
 Founder &amp; Visionary
 Twitter | LinkedIn | GitHub Our Mission # At FarmFrontiers, we are dedicated to exploring and advancing the new age of agriculture.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/about/cover.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/builder/cover.jpg" />
     </item>
     
     <item>
