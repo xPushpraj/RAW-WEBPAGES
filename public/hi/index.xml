@@ -20,14 +20,14 @@
     
     <item>
       <title>हमारे बारे में</title>
-      <link>http://localhost:1313/hi/builder/</link>
+      <link>http://localhost:1313/hi/about/</link>
       <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/hi/builder/</guid>
+      <guid>http://localhost:1313/hi/about/</guid>
       <description>हमारे बारे में # पुष्पराज पटेल &#34;प्रत्येक क्षेत्र में नवाचार की खेती करना।&#34;
 संस्थापक &amp; दूरदर्शी
 ट्विटर | लिंक्डइन | गिटहब हमारा मिशन # FarmFrontiers में, हम कृषि के नए युग का अन्वेषण और उन्नति करने के लिए समर्पित हैं। हमारा मिशन पारंपरिक खेती के तरीकों और आधुनिक तकनीक के बीच की खाई को पाटना है, जिससे किसानों और कृषि व्यवसायों को उनके प्रतिस्पर्धी परिदृश्य में पनपने के लिए अंतर्दृष्टि और उपकरण मिल सकें।</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/builder/cover.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/about/cover.jpg" />
     </item>
     
   </channel>
