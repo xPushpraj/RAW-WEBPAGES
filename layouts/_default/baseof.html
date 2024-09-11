@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {{ partial "head.html" . }}
+  </head>
+  <body>
+    <!-- Website Content -->
+    {{ block "main" . }}{{ .Content }}{{ end }}
+  </body>
+</html>
