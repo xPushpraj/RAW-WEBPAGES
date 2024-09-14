@@ -7,8 +7,8 @@ baseURL = "https://farmfrontiers.netlify.app"  # Update with your actual domain
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true
-paginate = 20
-summaryLength = 30
+paginate = 12
+summaryLength = 0
 
 buildDrafts = false
 buildFuture = false

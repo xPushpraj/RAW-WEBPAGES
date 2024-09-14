@@ -16,7 +16,7 @@ enableCodeCopy = true
 
 # Ensures blog posts are the main content focus, aiding in SEO by highlighting key content areas.
 mainSections = ["posts"]
-# robots = "index, follow" # You can enable robots if you want to control search engine indexing behavior.
+robots = "index, follow" # You can enable robots if you want to control search engine indexing behavior.
 
 [header]
   layout = "fixed" # "fixed" header improves navigation and user experience, aiding in SEO indirectly.
@@ -24,7 +24,7 @@ mainSections = ["posts"]
 [footer]
   showMenu = true # Having a footer menu improves site navigation, beneficial for both users and SEO.
   showCopyright = true
-  showThemeAttribution = true
+  showThemeAttribution = false
   showAppearanceSwitcher = true
   showScrollToTop = true # "Scroll to Top" improves user experience, reducing bounce rate.
 
@@ -50,17 +50,17 @@ mainSections = ["posts"]
   showEdit = false
   # editURL = "https://github.com/username/repo/"
   editAppendPath = true
-  seriesOpened = false
+  seriesOpened = true
   showHeadingAnchors = true
   showPagination = true
   invertPagination = false
-  showReadingTime = true
+  showReadingTime = false
   showTableOfContents = true # Improves navigation within long articles, beneficial for user experience and SEO.
   showTaxonomies = true # Displaying categories and tags can improve internal linking, aiding SEO.
   showAuthorsBadges = true # Author credibility can be beneficial for SEO.
   showWordCount = false
   showSummary = true
-  sharingLinks = ["linkedin", "twitter", "whatsapp", "pinterest", "reddit", "facebook", "email"] # Social sharing can drive traffic, indirectly benefiting SEO.
+  sharingLinks = ["linkedin", "twitter", "whatsapp", "pinterest", "instagram", "facebook", "snapchat"] # Social sharing can drive traffic, indirectly benefiting SEO.
   showComments = true
 
 [list]
@@ -69,11 +69,13 @@ mainSections = ["posts"]
   layoutBackgroundHeaderSpace = false
   showBreadcrumbs = true # Breadcrumbs are useful on lists as well.
   showSummary = true
-  showTableOfContents = false
+  showTableOfContents = true
   showCards = true
   groupByYear = true # Grouping by year provides temporal context to your content.
   cardView = true
   cardViewScreenWidth = false
+
+        
 
   [params.cusdis]
     appId = "21f440b5-2aac-4579-a91e-e1be2b9ea782" # replace with your actual App ID
@@ -85,10 +87,12 @@ mainSections = ["posts"]
 
 
 [sitemap]
-  excludedKinds = [] # Ensure all relevant content is included in the sitemap for better indexing.
+  excludedKinds = ["taxonomy", "term"] # Ensure all relevant content is included in the sitemap for better indexing.
 
 [taxonomy]
   showTermCount = true # Showing term count can provide additional context, useful for users and SEO.
+  showTableOfContents = true
+  showBreadcrumbs = true
 
 [firebase]
   # apiKey = "XXXXXX"

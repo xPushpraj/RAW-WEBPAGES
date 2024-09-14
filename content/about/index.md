@@ -15,8 +15,8 @@ draft: false
         <p><em>"Cultivating innovation in every field."</em></p>
         <p><strong>Founder & Visionary</strong></p>
         <div style="margin-top: 1rem;">
-            <a href="https://twitter.com/your_twitter" target="_blank" rel="noopener noreferrer">Twitter</a> | 
-            <a href="https://linkedin.com/in/your_linkedin" target="_blank" rel="noopener noreferrer">LinkedIn</a> | 
+            <a href="https://x.com/FarmFrontiers" target="_blank" rel="noopener noreferrer">Twitter</a> | 
+            <a href="https://linkedin.com/in/your_linkedin" target="_blank" rel="noopener noreferrer">Instagram</a> | 
             <a href="https://github.com/your_github" target="_blank" rel="noopener noreferrer">GitHub</a> <!-- Replace with actual links -->
         </div>
     </div>

@@ -15,18 +15,16 @@
       
       <guid>http://localhost:1313/hi/2024/09/05/%E0%A4%B9%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%80-%E0%A4%B5%E0%A5%87%E0%A4%AC%E0%A4%B8%E0%A4%BE%E0%A4%87%E0%A4%9F-%E0%A4%95%E0%A4%BE-%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%A6%E0%A5%87%E0%A4%B6%E0%A5%8D%E0%A4%AF-%E0%A4%86%E0%A4%A7%E0%A5%81%E0%A4%A8%E0%A4%BF%E0%A4%95-%E0%A4%95%E0%A5%83%E0%A4%B7%E0%A4%BF-%E0%A4%B8%E0%A4%AE%E0%A4%BE%E0%A4%A7%E0%A4%BE%E0%A4%A8%E0%A5%8B%E0%A4%82-%E0%A4%95%E0%A5%87-%E0%A4%B8%E0%A4%BE%E0%A4%A5-%E0%A4%95%E0%A4%BF%E0%A4%B8%E0%A4%BE%E0%A4%A8%E0%A5%8B%E0%A4%82-%E0%A4%95%E0%A5%8B-%E0%A4%B8%E0%A4%B6%E0%A4%95%E0%A5%8D%E0%A4%A4-%E0%A4%AC%E0%A4%A8%E0%A4%BE%E0%A4%A8%E0%A4%BE/</guid>
       <description>हमारा मंच किसानों को नई तकनीकों के माध्यम से कृषि समस्याओं का समाधान प्रदान करने और उनकी उत्पादकता और स्थिरता को बढ़ाने के लिए समर्पित है।</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/2024/09/05/the-purpose-of-our-website-empowering-farmers-with-modern-agricultural-solutions/cover.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/2024/09/05/the-purpose-of-our-website/cover.png" />
     </item>
     
     <item>
-      <title>हमारे बारे में</title>
+      <title>About Us</title>
       <link>http://localhost:1313/hi/about/</link>
       <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/hi/about/</guid>
-      <description>हमारे बारे में # पुष्पराज पटेल &#34;प्रत्येक क्षेत्र में नवाचार की खेती करना।&#34;
-संस्थापक &amp; दूरदर्शी
-ट्विटर | लिंक्डइन | गिटहब हमारा मिशन # FarmFrontiers में, हम कृषि के नए युग का अन्वेषण और उन्नति करने के लिए समर्पित हैं। हमारा मिशन पारंपरिक खेती के तरीकों और आधुनिक तकनीक के बीच की खाई को पाटना है, जिससे किसानों और कृषि व्यवसायों को उनके प्रतिस्पर्धी परिदृश्य में पनपने के लिए अंतर्दृष्टि और उपकरण मिल सकें।</description>
+      <description>About Us # Pushpraj Patel &#34;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/about/cover.jpg" />
     </item>
     

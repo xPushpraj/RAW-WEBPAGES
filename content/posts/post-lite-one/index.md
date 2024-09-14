@@ -1,8 +1,11 @@
 ---
-title: "The Purpose of Our Website: Empowering Farmers with Modern Agricultural Solutions"
+title: "The Purpose of Our Website"
 summary: "Our platform is dedicated to solving agricultural challenges using modern technology, providing solutions to help India's farmers improve productivity and sustainability."
 categories: ["Agriculture", "Technology", "Blog"]
+slug: "The Purpose of Our Website"
 tags: ["agriculture", "technology", "farming", "India", "modern solutions"]
+series: ["Documentation"]
+series_order: 1
 showComments: true
 date: 2024-09-05
 draft: false

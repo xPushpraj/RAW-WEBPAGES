@@ -1,55 +1,55 @@
 ---
-title: "हमारे बारे में"
+title: "About Us"
 date: 2024-08-29
 draft: false
 ---
 
-## हमारे बारे में
+## About Us
 
 <div style="display: flex; align-items: center; margin-bottom: 2rem;">
     <div style="flex: 1; text-align: left;">
-        <img src="builder-photo.jpg" alt="पुष्पराज पटेल" style="max-width: 100%; border-radius: 8px;"> <!-- Replace with actual image path -->
+        <img src="cover11.png" alt="Pushpraj Patel" style="max-width: 100%; border-radius: 8px;"> <!-- Replace with actual image path -->
     </div>
     <div style="flex: 2; text-align: right;">
-        <h2 style="margin: 0;">पुष्पराज पटेल</h2> <!-- Replace with actual name -->
-        <p><em>"प्रत्येक क्षेत्र में नवाचार की खेती करना।"</em></p>
-        <p><strong>संस्थापक & दूरदर्शी</strong></p>
+        <h2 style="margin: 0;">Pushpraj Patel</h2> <!-- Replace with actual name -->
+        <p><em>"Cultivating innovation in every field."</em></p>
+        <p><strong>Founder & Visionary</strong></p>
         <div style="margin-top: 1rem;">
-            <a href="https://twitter.com/your_twitter" target="_blank" rel="noopener noreferrer">ट्विटर</a> | 
-            <a href="https://linkedin.com/in/your_linkedin" target="_blank" rel="noopener noreferrer">लिंक्डइन</a> | 
-            <a href="https://github.com/your_github" target="_blank" rel="noopener noreferrer">गिटहब</a> <!-- Replace with actual links -->
+            <a href="https://twitter.com/your_twitter" target="_blank" rel="noopener noreferrer">Twitter</a> | 
+            <a href="https://linkedin.com/in/your_linkedin" target="_blank" rel="noopener noreferrer">LinkedIn</a> | 
+            <a href="https://github.com/your_github" target="_blank" rel="noopener noreferrer">GitHub</a> <!-- Replace with actual links -->
         </div>
     </div>
 </div>
 
 ---
 
-### हमारा मिशन
+### Our Mission
 
-**FarmFrontiers** में, हम कृषि के नए युग का अन्वेषण और उन्नति करने के लिए समर्पित हैं। हमारा मिशन पारंपरिक खेती के तरीकों और आधुनिक तकनीक के बीच की खाई को पाटना है, जिससे किसानों और कृषि व्यवसायों को उनके प्रतिस्पर्धी परिदृश्य में पनपने के लिए अंतर्दृष्टि और उपकरण मिल सकें।
+At **FarmFrontiers**, we are dedicated to exploring and advancing the new age of agriculture. Our mission is to bridge the gap between traditional farming practices and modern technology, providing farmers and agribusinesses with the insights and tools they need to thrive in today’s competitive landscape.
 
-### हम क्या प्रदान करते हैं
+### What We Offer
 
-1. **नवीनतम खेती तकनीकें**  
-   टिकाऊ और उन्नत खेती की प्रथाओं में नवीनतम खोज करें, हाइड्रोपोनिक्स से लेकर सटीक कृषि तक।
+1. **Innovative Farming Techniques**  
+   Discover the latest in sustainable and advanced farming practices, from hydroponics to precision agriculture.
 
-2. **विशेषज्ञ अंतर्दृष्टि**  
-   उद्योग के नेताओं से लेख और संसाधनों के साथ आगे रहें, जो आपको सूचित निर्णय लेने में मदद करते हैं।
+2. **Expert Insights**  
+   Stay ahead with articles and resources from industry leaders, designed to help you make informed decisions.
 
-3. **तकनीकी उन्नति**  
-   कृषि क्षेत्र को बदलने वाली नवीनतम तकनीकों के बारे में जानें, जिसमें एआई, आईओटी और स्वचालन शामिल हैं।
+3. **Technological Advancements**  
+   Learn about the cutting-edge technologies transforming the agricultural sector, including AI, IoT, and automation.
 
-4. **सस्टेनेबल प्रथाएं**  
-   हम पर्यावरण का सम्मान करने वाली खेती में विश्वास करते हैं। जैविक खेती, संसाधन प्रबंधन, और पर्यावरण के अनुकूल प्रथाओं पर हमारे संसाधनों का अन्वेषण करें।
+4. **Sustainable Practices**  
+   We believe in farming that respects the environment. Explore our resources on organic farming, resource management, and eco-friendly practices.
 
-### हमारा दृष्टिकोण
+### Our Vision
 
-प्रत्येक किसान को ज्ञान और उपकरणों के साथ सशक्त बनाना जो कृषि के लिए एक समृद्ध, टिकाऊ, और तकनीकी रूप से उन्नत भविष्य सुनिश्चित करें।
+To empower every farmer with knowledge and tools that ensure a prosperous, sustainable, and technologically advanced future for agriculture.
 
-### इस यात्रा में हमारे साथ जुड़ें
+### Join Us on this Journey
 
-हम आपको आमंत्रित करते हैं कि हम आधुनिक खेती के मोर्चों का अन्वेषण करें। साथ में, हम कृषि के लिए एक उज्जवल, अधिक टिकाऊ भविष्य का संवर्धन कर सकते हैं।
+We invite you to join us as we explore the frontiers of modern farming. Together, we can cultivate a brighter, more sustainable future for agriculture.
 
 ---
 
-*किसी भी प्रश्न, सहयोग, या योगदान के लिए, कृपया [हमसे संपर्क करें](mailto:info@farmfrontiers.com)।* <!-- Replace with actual email -->
+*For any inquiries, collaborations, or contributions, feel free to [contact us](mailto:info@farmfrontiers.com).* <!-- Replace with actual email -->

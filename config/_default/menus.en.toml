@@ -21,9 +21,32 @@
   weight = 10
 
 [[main]]
-  name = "Tags"
-  pageRef = "tags"
+  name = "Categories"
   weight = 20
+
+[[main]]
+  name = "Latest Posts"
+  parent = "Categories"
+  pageRef = "tags/posts"
+  weight = 20
+
+[[main]]
+  name = "Technology"
+  parent = "Categories"
+  pageRef = "tags/technology"
+  weight = 20
+
+[[main]]
+  name = "Modern Solutions"
+  parent = "Categories"
+  pageRef = "tags/modern-solutions"
+  weight = 20
+
+[[main]]
+  name = "Machineries"
+  parent = "Categories"
+  pageRef = "tags/Machineries"
+  weight = 20  
 
   [[main]]
   name = "About Us"
@@ -32,16 +55,27 @@
 
 [[main]]
   identifier = "Youtube"
-  pre = "link"
+  pre = "youtube"
   url = "https://m.youtube.com"
   weight = 40
 
 [[main]]
   identifier = "twitter"
-  pre = "twitter"
-  url = "https://twitter.com/burufugu"
+  pre = "x-twitter"
+  url = "https://x.com/FarmFrontiers"
   weight = 60
 
+[[main]]
+  identifier = "Whatsapp"
+  pre = "Whatsapp"
+  url = "https://x.com/FarmFrontiers"
+  weight = 61 
+
+[[main]]
+  identifier = "instagram"
+  pre = "instagram"
+  url = "https://x.com/FarmFrontiers"
+  weight = 61
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
